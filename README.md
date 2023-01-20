@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About this App
+This is a repository consisting of sample user interface for Signup and Login which can be used in your react app along with the provided css for each interface. It can be used for free and can be modified on your local machine.
+
+## Requirements for the App
+As it uses bootstrap hence you need to copy two links from [bootstrap official site](https://getbootstrap.com/docs/5.2/getting-started/introduction/) and have to paste them at your index.html file in th public directory.
+Thanks for visiting.
+
 ## Available Scripts
 
 In the project directory, you can run:

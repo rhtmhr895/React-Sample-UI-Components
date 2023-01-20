@@ -1,0 +1,81 @@
+.signup {
+    height: 100vh;
+    overflow: hidden;
+    background-image: url("../../assets/img4.webp");
+  }
+  
+  /* .signup > img {
+    height: auto;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+  } */
+  .mask {
+    display: flex;
+    padding: 5px;
+    align-items: center;
+    height: 100%;
+    max-height: 100%;
+  }
+  
+  .container {
+    height: 100%;
+    margin-top: 1rem;
+  }
+  
+  .form-outline {
+    margin-left: 2rem;
+    margin-right: 2rem;
+  }
+  
+  .row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100;
+  }
+  
+  .card {
+    border-radius: 15px;
+  }
+  .card-body {
+    padding: 5px;
+  }
+  
+  #gradient-custom-3 {
+    /* fallback for old browsers */
+    background: #84fab0;
+  
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(
+      to right,
+      rgba(132, 250, 176, 0.5),
+      rgba(143, 211, 244, 0.5)
+    );
+  
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(
+      to right,
+      rgba(132, 250, 176, 0.5),
+      rgba(143, 211, 244, 0.5)
+    );
+  }
+  #gradient-custom-4 {
+    /* fallback for old browsers */
+    background: #84fab0;
+  
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(
+      to right,
+      rgba(132, 250, 176, 1),
+      rgba(143, 211, 244, 1)
+    );
+  
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(
+      to right,
+      rgba(132, 250, 176, 1),
+      rgba(143, 211, 244, 1)
+    );
+  }
+  
